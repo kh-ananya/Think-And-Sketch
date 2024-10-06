@@ -28,7 +28,7 @@ function GettingStarted() {
                         <li><strong>Flexible and Versatile:</strong> Suitable for educational purposes, business planning, creative brainstorming, and much more.</li>
                     </ul>
                     <br />
-                    Experience the power of visual thinking and take your individual projects to the next level. Sign up today and start turning your ideas into impactful visual notes.
+                    Experience the power of visual thinking and take your individual projects to the next level. Sign up today and start turning your ideas into impactful visual notes and save them.
             </div>
         </div>
     );
