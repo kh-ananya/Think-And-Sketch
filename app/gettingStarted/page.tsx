@@ -6,9 +6,9 @@ function GettingStarted() {
             <div className="bg-white rounded-lg shadow-lg p-10 max-w-2xl w-full">
                 <h1 className="text-3xl font-bold text-center text-gray-800 mb-6">Getting Started</h1>
                 <p className="text-gray-700 text-lg leading-relaxed">
-                    <strong>Sketch And Write - Your Personal Digital Whiteboard for Visual Notes</strong>
+                    <strong>Think And Sketch - Your Personal Digital Whiteboard for Visual Notes</strong>
                     <br /><br />
-                    Sketch And Write is a versatile tool designed for individuals who want to create, organize, and refine their visual notes and diagrams. Ideal for students, educators, professionals, and creatives, Sketch And Write provides a seamless experience for capturing and developing your ideas.
+                    Think And Sketch is a versatile tool designed for individuals who want to create, organize, and refine their visual notes and diagrams. Ideal for students, educators, professionals, and creatives, Think And Sketch provides a seamless experience for capturing and developing your ideas.
                     <br /><br />
                     </p>
                     <strong>Key Features:</strong>
@@ -21,7 +21,7 @@ function GettingStarted() {
                         <li><strong>Export and Share:</strong> Export your notes in various formats (PDF, PNG, etc.) for easy sharing and printing.</li>
                     </ul>
                     <br />
-                    <strong>Why Choose Sketch And Write?</strong>
+                    <strong>Why Choose Think And Sketch?</strong>
                     <ul className="list-disc list-inside ml-4 mt-2">
                         <li><strong>User-Friendly Interface:</strong> Designed for ease of use, allowing you to focus on your ideas rather than the tool.</li>
                         <li><strong>Personal Workspace:</strong> Work individually on your projects without the complexities of team collaboration.</li>
